@@ -1,0 +1,4 @@
+opencv-python-headless
+matplotlib
+ipywidgets
+numpy
